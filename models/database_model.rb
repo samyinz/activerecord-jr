@@ -1,4 +1,5 @@
 require 'sqlite3'
+testing
 
 module Database
   class InvalidAttributeError < StandardError;end
